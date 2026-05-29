@@ -1,0 +1,13 @@
+/build/
+/runtime/*.txt
+/runtime/*.log
+/artifacts/
+*.o
+*.a
+*.so
+*.out
+*.elf
+*.log
+compile_commands.json
+.vscode/
+.idea/
